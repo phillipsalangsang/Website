@@ -156,8 +156,13 @@ li{
 }
 
 .icns{
-    font-size: 0.5em;
+    font-size: 1.5em;
     display: inline-flex
+}
+
+#footerName{
+    margin-bottom: 0;
+    padding-bottom: 0;
 }
 
 @media only screen and (max-width: 800px) {
