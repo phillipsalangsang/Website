@@ -70,6 +70,7 @@ nav a:hover{
     color: var(--main);
     font-size: 5rem;
     text-transform: uppercase;
+    text-shadow: 2px 4px 4px rgba(46,91,173,0.6);
     font-weight: bold;
     margin-top: 10vmin;
 }
@@ -178,6 +179,13 @@ li{
     width: 150px;
     height: 170px;
     }
+    }
+
+    footer{
+        background-color: #e4d3cc2f;
+        border-top: 2px solid black;
+        border-bottom: 2px solid black;
+        padding: 2px;
     }
     
 @media only screen and (max-width: 500px) {
