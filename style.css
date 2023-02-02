@@ -155,6 +155,11 @@ li{
     font-size: smaller;
 }
 
+.icns{
+    font-size: 0.5em;
+    display: inline-flex
+}
+
 @media only screen and (max-width: 800px) {
     
     header {
